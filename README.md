@@ -1,4 +1,4 @@
 # demo
-author vansh vyas 
+author Vansh Vyas 
 <br>
 I am a developer 
